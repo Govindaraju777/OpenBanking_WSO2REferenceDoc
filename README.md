@@ -30,4 +30,7 @@ WSO2 API Manager Developer Fundamentals :
 https://wso2.com/training/api-manager-developer-fundamentals
 
 
+WSO2 ESB / EI for Begineers
+https://www.youtube.com/watch?v=27fpZDLonzw&list=PLxoOrmZMsAWzG_TkytzDKPKzJrPXnYAMY
+
 
