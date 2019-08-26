@@ -26,4 +26,8 @@ Changing the Default API-M Databases : https://docs.wso2.com/display/AM260/Chang
 Tutorials : https://docs.wso2.com/display/ESB500/Tutorials
 
 
+WSO2 API Manager Developer Fundamentals :
+https://wso2.com/training/api-manager-developer-fundamentals
+
+
 
