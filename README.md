@@ -34,3 +34,7 @@ WSO2 ESB / EI for Begineers
 https://www.youtube.com/watch?v=27fpZDLonzw&list=PLxoOrmZMsAWzG_TkytzDKPKzJrPXnYAMY
 
 
+Invoking APIs using a Web App Deployed in WSO2 AS : samples/PizzaShack/pizza-shack-web
+     https://docs.wso2.com/display/AM140/Invoking+APIs+using+a+Web+App+Deployed+in+WSO2+AS
+
+
