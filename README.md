@@ -42,7 +42,15 @@ https://wso2.com/training/api-manager-developer-fundamentals
 maven build skip error module build using option --fail-at-end:
          https://maven.apache.org/guides/mini/guide-multiple-modules.html
          
+         
+maven verify version and java path : 
+mvn -version
+in bash terminal : $ export JAVA_HOME='/c/' 
+
+
+         
 mvn clean install --fail-at-end -Dmaven.test.skip=true
+
 
 Update local branch to stable release :
 git fetch --all --tags --prune
