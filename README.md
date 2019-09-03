@@ -1,5 +1,5 @@
 
-<br>
+<br/>
 
  What is open banking ?
                   Open Banking is a secured technology (APIs) that allows the consumer or an SME (Small and Medium-sized Enterprises) to safely share their transaction data with and authorized third party.
@@ -8,9 +8,17 @@
          The data that the bank holds on the consumer belongs to the consumer and not to the financial instutuions.
          Open Banking applies to Saving Ac, Current Ac, creditCards , E-wallets , Prepaids.
          Ex: Amazon wallet, Uber wallet....
+         
+ Consumer Point of View :
+   > Consumer information is not shared without their knowledg and only with their explict consent.
+   > No consumer is ever asked to provide passowrd, account id; in order to use open banking with any entity other than the bank they trust. 
+  
+ > Only authorized 3rd parties will be able to use open banking, i.e the entities that have been through rigorous FCA approval. 
+  > FCA (Financial Conduct Authority)
+  
          Imran Gulamhuseinwala: Why Open Banking is the Future of Fintech : https://www.youtube.com/watch?v=aywk5qqTRWw
 
-<br>
+<br/>
 
  
 
