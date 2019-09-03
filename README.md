@@ -1,15 +1,16 @@
 
-         What is open banking ?
+<br>
+
+ What is open banking ?
                   Open Banking is a secured technology (APIs) that allows the consumer or an SME (Small and Medium-sized Enterprises) to safely share their transaction data with and authorized third party.
          It also enables consumer/SMEs to instruct that that third party to send a payment from their accounts if they want to.
          
          The data that the bank holds on the consumer belongs to the consumer and not to the financial instutuions.
          Open Banking applies to Saving Ac, Current Ac, creditCards , E-wallets , Prepaids.
          Ex: Amazon wallet, Uber wallet....
+         Imran Gulamhuseinwala: Why Open Banking is the Future of Fintech : https://www.youtube.com/watch?v=aywk5qqTRWw
 
-
-Imran Gulamhuseinwala: Why Open Banking is the Future of Fintech : https://www.youtube.com/watch?v=aywk5qqTRWw
-
+<br>
 
  
 
