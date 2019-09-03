@@ -30,6 +30,15 @@ WSO2 API Manager Developer Fundamentals :
 https://wso2.com/training/api-manager-developer-fundamentals
 
 
+
+
+maven build skip error module build using option --fail-at-end:
+         https://maven.apache.org/guides/mini/guide-multiple-modules.html
+         
+mvn clean install --fail-at-end -Dmaven.test.skip=true
+
+
+
 WSO2 ESB / EI for Begineers
 https://www.youtube.com/watch?v=27fpZDLonzw&list=PLxoOrmZMsAWzG_TkytzDKPKzJrPXnYAMY
 
