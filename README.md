@@ -30,6 +30,33 @@ WSO2 API Manager Developer Fundamentals :
 https://wso2.com/training/api-manager-developer-fundamentals
 
 
+---------------------------------------------------------------
+Maven build error at module : wso2ApiManager/git/product-apim/modules/p2-profile/product
+
+Application failed, log file location: /root/.m2/repository/org/eclipse/tycho/tycho-p2-runtime/0.13.0/eclipse/configuration/1567501707194.log
+
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  07:27 min
+[INFO] Finished at: 2019-09-03T09:08:31Z
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.wso2.maven:carbon-p2-plugin:1.5.4:materialize-product (creating-gateway-worker-profile) on project am-p2-profile: Cannot generate P2 metadata: P2 publisher return code was 13 -> [Help 1]
+[ERROR]
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR]
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
+
+
+-----------------------------------------------------------------
+
+
+
+
+
+
 
 
 maven build skip error module build using option --fail-at-end:
