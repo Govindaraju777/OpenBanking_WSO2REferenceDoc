@@ -30,6 +30,40 @@ WSO2 API Manager Developer Fundamentals :
 https://wso2.com/training/api-manager-developer-fundamentals
 
 
+
+
+
+
+
+
+
+
+
+maven build skip error module build using option --fail-at-end:
+         https://maven.apache.org/guides/mini/guide-multiple-modules.html
+         
+mvn clean install --fail-at-end -Dmaven.test.skip=true
+
+Update local branch to stable release :
+git fetch --all --tags --prune
+git checkout tags/<tag_name> -b <branch_name>
+
+Ex: $ git checkout tags/v2.6.0
+
+
+WSO2 ESB / EI for Begineers
+https://www.youtube.com/watch?v=27fpZDLonzw&list=PLxoOrmZMsAWzG_TkytzDKPKzJrPXnYAMY
+
+
+Invoking APIs using a Web App Deployed in WSO2 AS : samples/PizzaShack/pizza-shack-web
+     https://docs.wso2.com/display/AM140/Invoking+APIs+using+a+Web+App+Deployed+in+WSO2+AS
+
+
+
+
+
+
+
 ---------------------------------------------------------------
 <br><br>
 
@@ -53,28 +87,6 @@ Application failed, log file location: /root/.m2/repository/org/eclipse/tycho/ty
 
 
 -----------------------------------------------------------------
-
-
-
-
-
-
-
-
-maven build skip error module build using option --fail-at-end:
-         https://maven.apache.org/guides/mini/guide-multiple-modules.html
-         
-mvn clean install --fail-at-end -Dmaven.test.skip=true
-
-
-
-WSO2 ESB / EI for Begineers
-https://www.youtube.com/watch?v=27fpZDLonzw&list=PLxoOrmZMsAWzG_TkytzDKPKzJrPXnYAMY
-
-
-Invoking APIs using a Web App Deployed in WSO2 AS : samples/PizzaShack/pizza-shack-web
-     https://docs.wso2.com/display/AM140/Invoking+APIs+using+a+Web+App+Deployed+in+WSO2+AS
-
 
 -----------------------------------------------------------------
 
