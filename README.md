@@ -1,5 +1,6 @@
-What is open banking ?
-         Open Banking is a secured technology (APIs) that allows the consumer or an SME (Small and Medium-sized Enterprises) to safely share their transaction data with and authorized third party.
+
+         What is open banking ?
+                  Open Banking is a secured technology (APIs) that allows the consumer or an SME (Small and Medium-sized Enterprises) to safely share their transaction data with and authorized third party.
          It also enables consumer/SMEs to instruct that that third party to send a payment from their accounts if they want to.
          
          The data that the bank holds on the consumer belongs to the consumer and not to the financial instutuions.
