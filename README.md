@@ -93,6 +93,8 @@ Invoking APIs using a Web App Deployed in WSO2 AS : samples/PizzaShack/pizza-sha
 
 
 
+https://www.forgerock.com/industries/financial-services/open-banking/UK-Spec
+
 
 
 
@@ -122,6 +124,36 @@ Application failed, log file location: /root/.m2/repository/org/eclipse/tycho/ty
 -----------------------------------------------------------------
 
 -----------------------------------------------------------------
+
+
+
+Application logging :
+
+https://docs.microsoft.com/en-us/azure/architecture/microservices/logging-monitoring
+
+
+------------------------------------------------------------------------------
+
+9 Logging Sins in Your Java Applications
+
+https://stackify.com/9-logging-sins-java/
+
+---------------------------------------------------------------------------
+
+Anonymizing logs for GDPR ( General Data Protection Regulation) using Logback pattern layout
+https://www.schibsted.pl/blog/logback-pattern-gdpr/
+
+Anonymize/mask sensitive data
+If you find yourself in a situation in which you already log something that may contain private data, you should consider implementing anonymization mechanisms. Solutions may differ depending on your needs – encryption, masking or complete removal are some of the possible options.
+---------------------------------------------------------------------------------------
+Insights on Software Development, Cloud, DevOps, Consulting, and More…
+
+Containerized Microservice Log Aggregation and Visualization using ELK Stack and Logspout
+
+https://programmaticponderings.com/tag/log4j/
+--------------------------------------------------
+
+https://javainterviewpoint.com/aes-256-encryption-and-decryption/
 
 
 
